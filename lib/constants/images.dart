@@ -1,0 +1,15 @@
+const String img1 = "assets/images/EarnCipherPoints.jpeg";
+const String img2 = "assets/images/Mentors.jpeg";
+const String img3 = "assets/images/Projects.jpeg";
+const String img4 = "assets/images/QRated.jpeg";
+const String img5 = "assets/images/students.jpeg";
+const String img6 = "assets/images/creators.jpeg";
+const String img7 = "assets/images/1.jpeg";
+const String img8 = "assets/images/2.jpeg";
+const String img9 = "assets/images/3.jpeg";
+const String img10 = "assets/images/4.jpeg";
+const String img11 = "assets/images/course1.jpeg";
+const String img12 = "assets/images/course2.jpeg";
+const String img13 = "assets/images/course3.jpeg";
+const String img14 = "assets/images/course4.jpeg";
+const String img15 = "assets/images/course5.jpeg";
